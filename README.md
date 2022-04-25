@@ -23,6 +23,7 @@
   
 <div>
    <a href="https://www.linkedin.com/in/alisson-bernardes-de-oliveira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://steamcommunity.com/id/Alissx_n/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"></a>
   
   ![snake gif](https://github.com/4lissxn/4lissxn/blob/output/github-contribution-grid-snake.svg)
  
