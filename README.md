@@ -1,14 +1,15 @@
 ### Olá, eu me chamo Alisson e seja bem vindo! 👋
 - 👨🏽‍💻 Cursando Analise e Desenvolvimento de Sistemas na UNIP
-- 👾 Atualmente estou aprendendo sobre o Front-end, iniciado pela linguagem Javascript 
+- 📚 Atualmente estou aprendendo sobre o Front-end, iniciado pela linguagem Javascript 
 - 📧 E-mail para contato: alissonbernardesss@gmail.com
 - 🏡 São Paulo, SP - Brazil 
 - 🔹 Linkedin: https://www.linkedin.com/in/alisson-bernardes-de-oliveira/
+- 👾 Apaixonado por jogos
 
 <div align="center">
   <a href="https://github.com/4lissxn">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=4lissxn&show_icons=false&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4lissxn&layout=compact&langs_count=7&theme=midnight-purple"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=4lissxn&show_icons=false&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4lissxn&layout=compact&langs_count=7&theme=midnight-purple&hide_border=true"/>
 </div>
   <div style="display: inline_block"><br>
   <img align="center" alt="Alissxn-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
