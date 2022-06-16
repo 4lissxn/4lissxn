@@ -7,7 +7,6 @@
 - 👾 Apaixonado por jogos
 
 <div align="center">
-  box-sizing: content-box;
   <a href="https://github.com/4lissxn">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=4lissxn&show_icons=false&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4lissxn&layout=compact&langs_count=7&theme=midnight-purple&hide_border=true"/>
